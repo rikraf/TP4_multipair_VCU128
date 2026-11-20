@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "fifo_generator_v13_2_14" -L "gtwizard_ultrascale_v1_7_22" -L "xilinx_vip" -L "unisims_ver" -L "unimacro_ver" -L "secureip" -L "xpm" --snapshot "TP4_2pair_HS_TB_behav" "xil_defaultlib.TP4_2pair_HS_TB" "xil_defaultlib.glbl" -log "elaborate.log" 

@@ -1,0 +1,6 @@
+gtwizard_ultrascale_v1_7_gtye4_channel.v,verilog,xil_defaultlib,../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_v1_7_gtye4_channel.v,incdir="../../../../../../../../opt/2025.2/data/rsb/busdef"
+gtwizard_ultrascale_0_gtye4_channel_wrapper.v,verilog,xil_defaultlib,../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0_gtye4_channel_wrapper.v,incdir="../../../../../../../../opt/2025.2/data/rsb/busdef"
+gtwizard_ultrascale_0_gtwizard_gtye4.v,verilog,xil_defaultlib,../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0_gtwizard_gtye4.v,incdir="../../../../../../../../opt/2025.2/data/rsb/busdef"
+gtwizard_ultrascale_0_gtwizard_top.v,verilog,xil_defaultlib,../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0_gtwizard_top.v,incdir="../../../../../../../../opt/2025.2/data/rsb/busdef"
+gtwizard_ultrascale_0.v,verilog,xil_defaultlib,../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0.v,incdir="../../../../../../../../opt/2025.2/data/rsb/busdef"
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,34 @@
+// BOT pair 5 = channel 11: data words tagged with ch id in bits [7:4]
+// One 66b word per line: {2b sync header, 64b payload}. 2=data, 1=control (SEP). Loops endlessly.
+11e00000000000000  // SEP
+2123456789abcdeb0  // ch11 data 0
+11e00000000000000  // SEP
+223456789abcdefb1  // ch11 data 1
+11e00000000000000  // SEP
+23456789abcdef0b2  // ch11 data 2
+11e00000000000000  // SEP
+270000000000000ba  // ch11 data 3
+11e00000000000000  // SEP
+2456789abcdef01b3  // ch11 data 4
+11e00000000000000  // SEP
+256789abcdef012b4  // ch11 data 5
+11e00000000000000  // SEP
+26789abcdef0123b5  // ch11 data 6
+11e00000000000000  // SEP
+270000000000002ba  // ch11 data 7
+11e00000000000000  // SEP
+2789abcdef01234b6  // ch11 data 8
+11e00000000000000  // SEP
+289abcdef012345b7  // ch11 data 9
+11e00000000000000  // SEP
+29abcdef0123456b8  // ch11 data 10
+11e00000000000000  // SEP
+270000000000004ba  // ch11 data 11
+11e00000000000000  // SEP
+2abcdef01234567b9  // ch11 data 12
+11e00000000000000  // SEP
+2dead00000001bebf  // ch11 data 13
+11e00000000000000  // SEP
+2dead00000002bebf  // ch11 data 14
+11e00000000000000  // SEP
+270000000000006ba  // ch11 data 15

@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../../../../../opt/2025.2/data/rsb/busdef" --include "../../../../TP4_1CHIP_multipair.gen/sources_1/bd/design_1/ipshared/f0b6/hdl/verilog" --include "../../../../TP4_1CHIP_multipair.gen/sources_1/bd/design_1/ipshared/00fe/hdl/verilog" --include "../../../../TP4_1CHIP_multipair.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../TP4_1CHIP_multipair.gen/sources_1/bd/design_1/ipshared/a415" --include "/opt/2025.2/data/xilinx_vip/include" \
+"../../../../TP4_1CHIP_multipair.ip_user_files/ip/fifo_generator_0/sim/fifo_generator_0.v" \
+"../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_v1_7_gtye4_channel.v" \
+"../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0_gtye4_channel_wrapper.v" \
+"../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0_gtwizard_gtye4.v" \
+"../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0_gtwizard_top.v" \
+"../../../../TP4_1CHIP_multipair.gen/sources_1/ip/gtwizard_ultrascale_0/sim/gtwizard_ultrascale_0.v" \
+"../../../../TP4_1CHIP_multipair.ip_user_files/ip/fifo_512x256/sim/fifo_512x256.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/block_sync_sm.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/cdc_sync.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/descrambler_tpx4.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/lfsr.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sim_1/imports/imports/new/lfsr_scramble.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/simple_RX.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/sync_iinput.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sources_1/imports/hdl/tp4_2pair_HS_readout_multipair.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sim_1/imports/imports/Desktop/tpx4_gwt_fileread.v" \
+"../../../../TP4_1CHIP_multipair.srcs/sim_1/imports/imports/Desktop/TP4_2pair_HS_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

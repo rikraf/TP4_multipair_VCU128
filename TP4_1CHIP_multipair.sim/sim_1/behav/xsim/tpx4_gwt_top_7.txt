@@ -1,0 +1,34 @@
+// TOP pair 7 = channel 14: data words tagged with ch id in bits [7:4]
+// One 66b word per line: {2b sync header, 64b payload}. 2=data, 1=control (SEP). Loops endlessly.
+11e00000000000000  // SEP
+22468ace013579bef  // ch14 data 0
+11e00000000000000  // SEP
+2f0000000000000eb  // ch14 data 1
+11e00000000000000  // SEP
+2468ace013579bde2  // ch14 data 2
+11e00000000000000  // SEP
+268ace013579bdfe4  // ch14 data 3
+11e00000000000000  // SEP
+28ace013579bdf2e6  // ch14 data 4
+11e00000000000000  // SEP
+2f0000000000002eb  // ch14 data 5
+11e00000000000000  // SEP
+2ace013579bdf24e8  // ch14 data 6
+11e00000000000000  // SEP
+2ce013579bdf246ea  // ch14 data 7
+11e00000000000000  // SEP
+2e013579bdf2468ec  // ch14 data 8
+11e00000000000000  // SEP
+2f0000000000004eb  // ch14 data 9
+11e00000000000000  // SEP
+2feedbac0123456e8  // ch14 data 10
+11e00000000000000  // SEP
+2013579bdf2468aee  // ch14 data 11
+11e00000000000000  // SEP
+213579bdf2468ace0  // ch14 data 12
+11e00000000000000  // SEP
+2f0000000000006eb  // ch14 data 13
+11e00000000000000  // SEP
+23579bdf2468acee1  // ch14 data 14
+11e00000000000000  // SEP
+2579bdf2468ace0e3  // ch14 data 15

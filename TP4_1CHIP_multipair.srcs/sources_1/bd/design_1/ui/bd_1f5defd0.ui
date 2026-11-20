@@ -1,0 +1,258 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Addressing View_Layers":"/reset_0_1:false|/timepix_gpio_AXI_0_reset_P:false|/microblaze_riscv_0_Clk:false|/dummy_port_in_1:false|/mdm_1_debug_sys_rst:false|/axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n:false|/axi_ethernet_0_fifo_interrupt:false|/clk_wiz_1_clk_40:false|/rst_clk_wiz_1_100M_bus_struct_reset:false|/axi_ethernet_0_fifo_s2mm_prmry_reset_out_n:false|/clk_wiz_1_clk_20:false|/clk_wiz_1_clk_200:false|/timepix_gpio_AXI_0_reset_N:false|/cmac_usplus_0_gt_txusrclk2:false|/axi_ethernet_0_interrupt:false|/axi_ethernet_0_fifo_mm2s_prmry_reset_out_n:false|/util_ds_buf_0_IBUF_OUT:false|/timepix4_sc_in_AXI_0_sc_irq:false|/rst_clk_wiz_1_100M_peripheral_aresetn:false|/rst_clk_wiz_1_100M_mb_reset:false|/axi_timer_0_interrupt:false|",
+   "Addressing View_ScaleFactor":"0.471181",
+   "Addressing View_TopLeft":"-161,-68",
+   "Clocking and Reset View_Layers":"/clk_wiz_1_clk_20:true|/clk_wiz_1_clk_200:true|/util_ds_buf_0_IBUF_OUT:true|/cmac_usplus_0_gt_txusrclk2:true|/clk_wiz_1_clk_40:true|/microblaze_riscv_0_Clk:true|/dummy_port_in_1:true|/mdm_1_debug_sys_rst:true|/timepix_gpio_AXI_0_reset_N:true|/reset_0_1:true|/axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n:true|/axi_ethernet_0_fifo_mm2s_prmry_reset_out_n:true|/timepix_gpio_AXI_0_reset_P:true|/rst_clk_wiz_1_100M_bus_struct_reset:true|/rst_clk_wiz_1_100M_peripheral_aresetn:true|/rst_clk_wiz_1_100M_mb_reset:true|/axi_ethernet_0_fifo_s2mm_prmry_reset_out_n:true|",
+   "Clocking and Reset View_ScaleFactor":"0.370993",
+   "Clocking and Reset View_TopLeft":"-162,-108",
+   "Color Coded_ScaleFactor":"0.495708",
+   "Color Coded_TopLeft":"71,436",
+   "Default View_Layers":"/clk_wiz_1_clk_20:true|/clk_wiz_1_clk_200:true|/timepix_gpio_AXI_0_reset_N:true|/reset_0_1:true|/timepix_gpio_AXI_0_reset_P:true|/cmac_usplus_0_gt_txusrclk2:true|/microblaze_riscv_0_Clk:true|/dummy_port_in_1:true|/mdm_1_debug_sys_rst:true|/axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n:true|/axi_ethernet_0_fifo_mm2s_prmry_reset_out_n:true|/util_ds_buf_0_IBUF_OUT:true|/clk_wiz_1_clk_40:true|/rst_clk_wiz_1_100M_bus_struct_reset:true|/rst_clk_wiz_1_100M_peripheral_aresetn:true|/rst_clk_wiz_1_100M_mb_reset:true|/axi_ethernet_0_fifo_s2mm_prmry_reset_out_n:true|",
+   "Default View_ScaleFactor":"0.563543",
+   "Default View_TopLeft":"2348,2789",
+   "Display-IntfAXI4Lite":"true",
+   "Display-IntfAXIStream":"true",
+   "Display-IntfOthers":"true",
+   "Display-PortTypeClock":"true",
+   "Display-PortTypeInterrupt":"true",
+   "Display-PortTypeOthers":"true",
+   "Display-PortTypeReset":"true",
+   "ExpandedHierarchyInLayout":"",
+   "Grouping and No Loops_ScaleFactor":"0.138714",
+   "Grouping and No Loops_TopLeft":"-1853,0",
+   "Interfaces View_Layers":"/reset_0_1:false|/timepix_gpio_AXI_0_reset_P:false|/microblaze_riscv_0_Clk:false|/dummy_port_in_1:false|/mdm_1_debug_sys_rst:false|/axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n:false|/axi_ethernet_0_fifo_interrupt:false|/clk_wiz_1_clk_40:false|/rst_clk_wiz_1_100M_bus_struct_reset:false|/axi_ethernet_0_fifo_s2mm_prmry_reset_out_n:false|/clk_wiz_1_clk_20:false|/clk_wiz_1_clk_200:false|/timepix_gpio_AXI_0_reset_N:false|/cmac_usplus_0_gt_txusrclk2:false|/axi_ethernet_0_interrupt:false|/axi_ethernet_0_fifo_mm2s_prmry_reset_out_n:false|/util_ds_buf_0_IBUF_OUT:false|/timepix4_sc_in_AXI_0_sc_irq:false|/rst_clk_wiz_1_100M_peripheral_aresetn:false|/rst_clk_wiz_1_100M_mb_reset:false|/axi_timer_0_interrupt:false|",
+   "Interfaces View_ScaleFactor":"0.407886",
+   "Interfaces View_TopLeft":"-162,-140",
+   "Interrupt and AXI-4 Lite_Layers":"/clk_wiz_1_clk_20:false|/clk_wiz_1_clk_200:false|/util_ds_buf_0_IBUF_OUT:false|/cmac_usplus_0_gt_txusrclk2:false|/clk_wiz_1_clk_40:false|/microblaze_riscv_0_Clk:false|/dummy_port_in_1:false|/mdm_1_debug_sys_rst:false|/timepix_gpio_AXI_0_reset_N:false|/reset_0_1:false|/axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n:false|/axi_ethernet_0_fifo_mm2s_prmry_reset_out_n:false|/timepix_gpio_AXI_0_reset_P:false|/rst_clk_wiz_1_100M_bus_struct_reset:false|/rst_clk_wiz_1_100M_peripheral_aresetn:false|/rst_clk_wiz_1_100M_mb_reset:false|/axi_ethernet_0_fifo_s2mm_prmry_reset_out_n:false|/axi_ethernet_0_interrupt:true|/timepix4_sc_in_AXI_0_sc_irq:true|/axi_ethernet_0_fifo_interrupt:true|/axi_timer_0_interrupt:true|",
+   "Interrupt and AXI-4 Lite_ScaleFactor":"0.414392",
+   "Interrupt and AXI-4 Lite_TopLeft":"-162,-186",
+   "No Loops_ScaleFactor":"0.124899",
+   "No Loops_TopLeft":"-1481,0",
+   "Reduced Jogs_Layers":"/reset_0_1:true|/timepix_gpio_AXI_0_reset_P:true|/microblaze_riscv_0_Clk:true|/dummy_port_in_1:true|/mdm_1_debug_sys_rst:true|/axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n:true|/axi_ethernet_0_fifo_interrupt:true|/clk_wiz_1_clk_40:true|/rst_clk_wiz_1_100M_bus_struct_reset:true|/axi_ethernet_0_fifo_s2mm_prmry_reset_out_n:true|/clk_wiz_1_clk_20:true|/clk_wiz_1_clk_200:true|/timepix_gpio_AXI_0_reset_N:true|/cmac_usplus_0_gt_txusrclk2:true|/axi_ethernet_0_interrupt:true|/axi_ethernet_0_fifo_mm2s_prmry_reset_out_n:true|/util_ds_buf_0_IBUF_OUT:true|/timepix4_sc_in_AXI_0_sc_irq:true|/rst_clk_wiz_1_100M_peripheral_aresetn:true|/rst_clk_wiz_1_100M_mb_reset:true|/axi_timer_0_interrupt:true|",
+   "Reduced Jogs_ScaleFactor":"0.122266",
+   "Reduced Jogs_TopLeft":"-1538,0",
+   "guistr":"# # String gsaved with Nlview 7.8.0 2024-04-26 e1825d835c VDI=44 GEI=38 GUI=JA:21.0 TLS
+#  -string -flagsOSRD
+preplace port gt_ref_clk_0 -pg 1 -lvl 0 -x -30 -y 2390 -defaultsOSRD
+preplace port gt_serial_port_0 -pg 1 -lvl 11 -x 4610 -y 2090 -defaultsOSRD
+preplace port IIC_0 -pg 1 -lvl 11 -x 4610 -y 2290 -defaultsOSRD
+preplace port rs232_uart_0 -pg 1 -lvl 11 -x 4610 -y 3200 -defaultsOSRD
+preplace port led_8bits -pg 1 -lvl 11 -x 4610 -y 2200 -defaultsOSRD
+preplace port CLK_IN1_D_0 -pg 1 -lvl 0 -x -30 -y 1820 -defaultsOSRD
+preplace port sgmii_phyclk -pg 1 -lvl 0 -x -30 -y 1260 -defaultsOSRD
+preplace port mdio_mdc -pg 1 -lvl 11 -x 4610 -y 1100 -defaultsOSRD
+preplace port sgmii_lvds -pg 1 -lvl 11 -x 4610 -y 1130 -defaultsOSRD
+preplace port port-id_reset_0 -pg 1 -lvl 0 -x -30 -y 1850 -defaultsOSRD
+preplace port port-id_qsfp3_resetl -pg 1 -lvl 11 -x 4610 -y 2260 -defaultsOSRD
+preplace port port-id_qsfp3_lpmode -pg 1 -lvl 11 -x 4610 -y 2230 -defaultsOSRD
+preplace port port-id_refclk_40_P -pg 1 -lvl 11 -x 4610 -y 3140 -defaultsOSRD
+preplace port port-id_SC_clk_in_P -pg 1 -lvl 11 -x 4610 -y 3080 -defaultsOSRD
+preplace port port-id_SC_clk_in_N -pg 1 -lvl 11 -x 4610 -y 3110 -defaultsOSRD
+preplace port port-id_SC_data_in_P -pg 1 -lvl 11 -x 4610 -y 3020 -defaultsOSRD
+preplace port port-id_SC_data_in_N -pg 1 -lvl 11 -x 4610 -y 3050 -defaultsOSRD
+preplace port port-id_refclk_40_N -pg 1 -lvl 11 -x 4610 -y 3170 -defaultsOSRD
+preplace port port-id_reset_P -pg 1 -lvl 11 -x 4610 -y 3350 -defaultsOSRD
+preplace port port-id_shutter_P -pg 1 -lvl 11 -x 4610 -y 3500 -defaultsOSRD
+preplace port port-id_pwr_en -pg 1 -lvl 11 -x 4610 -y 3470 -defaultsOSRD
+preplace port port-id_T0_sync_N -pg 1 -lvl 11 -x 4610 -y 3440 -defaultsOSRD
+preplace port port-id_T0_sync_P -pg 1 -lvl 11 -x 4610 -y 3410 -defaultsOSRD
+preplace port port-id_reset_N -pg 1 -lvl 11 -x 4610 -y 3380 -defaultsOSRD
+preplace port port-id_shutter_N -pg 1 -lvl 11 -x 4610 -y 3530 -defaultsOSRD
+preplace port port-id_SC_DATA_OUT_P -pg 1 -lvl 0 -x -30 -y 2510 -defaultsOSRD
+preplace port port-id_SC_CLK_OUT_N -pg 1 -lvl 0 -x -30 -y 2480 -defaultsOSRD
+preplace port port-id_SC_DATA_OUT_N -pg 1 -lvl 0 -x -30 -y 2540 -defaultsOSRD
+preplace port port-id_SC_CLK_OUT_P -pg 1 -lvl 0 -x -30 -y 2450 -defaultsOSRD
+preplace port port-id_pwr_good -pg 1 -lvl 0 -x -30 -y 3420 -defaultsOSRD
+preplace port port-id_TP4_testpoint_p -pg 1 -lvl 0 -x -30 -y 2910 -defaultsOSRD
+preplace port port-id_TP4_testpoint_n -pg 1 -lvl 0 -x -30 -y 2880 -defaultsOSRD
+preplace port port-id_digpix_drive_in -pg 1 -lvl 0 -x -30 -y 2680 -defaultsOSRD
+preplace port port-id_refclk1_p -pg 1 -lvl 0 -x -30 -y 2740 -defaultsOSRD
+preplace port port-id_refclk0_p -pg 1 -lvl 0 -x -30 -y 2650 -defaultsOSRD
+preplace port port-id_refclk0_n -pg 1 -lvl 0 -x -30 -y 2620 -defaultsOSRD
+preplace port port-id_refclk1_n -pg 1 -lvl 0 -x -30 -y 2710 -defaultsOSRD
+preplace port port-id_dummy_port_in -pg 1 -lvl 0 -x -30 -y 1660 -defaultsOSRD
+preplace portBus digitalpixel_b -pg 1 -lvl 11 -x 4610 -y 2170 -defaultsOSRD
+preplace portBus TP4_testpoint_buf -pg 1 -lvl 11 -x 4610 -y 2990 -defaultsOSRD
+preplace portBus digitalpixel_t -pg 1 -lvl 11 -x 4610 -y 2140 -defaultsOSRD
+preplace portBus bot_p -pg 1 -lvl 0 -x -30 -y 1600 -defaultsOSRD
+preplace portBus bot_n -pg 1 -lvl 0 -x -30 -y 1630 -defaultsOSRD
+preplace portBus top_p -pg 1 -lvl 0 -x -30 -y 3130 -defaultsOSRD
+preplace portBus top_n -pg 1 -lvl 0 -x -30 -y 2770 -defaultsOSRD
+preplace inst microblaze_riscv_0 -pg 1 -lvl 4 -x 1310 -y 1950 -defaultsOSRD
+preplace inst microblaze_riscv_0_local_memory -pg 1 -lvl 5 -x 1730 -y 1960 -defaultsOSRD
+preplace inst microblaze_riscv_0_axi_periph -pg 1 -lvl 5 -x 1730 -y 2210 -defaultsOSRD
+preplace inst microblaze_riscv_0_axi_intc -pg 1 -lvl 3 -x 840 -y 1920 -defaultsOSRD
+preplace inst microblaze_riscv_0_xlconcat -pg 1 -lvl 2 -x 500 -y 1780 -defaultsOSRD
+preplace inst mdm_1 -pg 1 -lvl 3 -x 840 -y 1760 -defaultsOSRD
+preplace inst clk_wiz_1 -pg 1 -lvl 1 -x 130 -y 1830 -defaultsOSRD
+preplace inst rst_clk_wiz_1_100M -pg 1 -lvl 2 -x 500 -y 1950 -defaultsOSRD
+preplace inst axi_timer_0 -pg 1 -lvl 6 -x 2180 -y 1990 -defaultsOSRD
+preplace inst axi_ethernet_0 -pg 1 -lvl 7 -x 2690 -y 1410 -defaultsOSRD
+preplace inst axi_ethernet_0_fifo -pg 1 -lvl 6 -x 2180 -y 1150 -defaultsOSRD
+preplace inst cmac_usplus_0 -pg 1 -lvl 9 -x 4000 -y 2670 -defaultsOSRD
+preplace inst ground_0 -pg 1 -lvl 8 -x 3250 -y 2630 -defaultsOSRD
+preplace inst breakout1_0 -pg 1 -lvl 8 -x 3250 -y 1980 -defaultsOSRD
+preplace inst axi_gpio_cmac -pg 1 -lvl 6 -x 2180 -y 2180 -defaultsOSRD
+preplace inst timepix4_command_out_0 -pg 1 -lvl 7 -x 2690 -y 3020 -defaultsOSRD
+preplace inst timepix_gpio_AXI_0 -pg 1 -lvl 7 -x 2690 -y 3430 -defaultsOSRD
+preplace inst timepix4_sc_in_AXI_0 -pg 1 -lvl 6 -x 2180 -y 2490 -defaultsOSRD
+preplace inst axi_iic_0 -pg 1 -lvl 7 -x 2690 -y 2280 -defaultsOSRD
+preplace inst util_ds_buf_0 -pg 1 -lvl 10 -x 4410 -y 3020 -defaultsOSRD
+preplace inst mod0 -pg 1 -lvl 8 -x 3250 -y 1420 -defaultsOSRD
+preplace inst ilslice_0 -pg 1 -lvl 7 -x 2690 -y 70 -defaultsOSRD
+preplace inst ilslice_7a -pg 1 -lvl 7 -x 2690 -y 470 -defaultsOSRD
+preplace inst ilslice_8a -pg 1 -lvl 7 -x 2690 -y 570 -defaultsOSRD
+preplace inst ilslice_9a -pg 1 -lvl 7 -x 2690 -y 1890 -defaultsOSRD
+preplace inst ilslice_10a -pg 1 -lvl 7 -x 2690 -y 670 -defaultsOSRD
+preplace inst ilslice_1 -pg 1 -lvl 7 -x 2690 -y 170 -defaultsOSRD
+preplace inst ilslice_11a -pg 1 -lvl 7 -x 2690 -y 770 -defaultsOSRD
+preplace inst ilslice_20 -pg 1 -lvl 7 -x 2690 -y 970 -defaultsOSRD
+preplace inst ilslice_2 -pg 1 -lvl 7 -x 2690 -y 270 -defaultsOSRD
+preplace inst ilslice_3 -pg 1 -lvl 7 -x 2690 -y 370 -defaultsOSRD
+preplace inst ilslice_19_12 -pg 1 -lvl 7 -x 2690 -y 870 -defaultsOSRD
+preplace inst axi_gpio_1 -pg 1 -lvl 6 -x 2180 -y 1750 -defaultsOSRD
+preplace inst ilconcat_0 -pg 1 -lvl 10 -x 4410 -y 1640 -defaultsOSRD
+preplace inst ilconstant_1 -pg 1 -lvl 9 -x 4000 -y 1660 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 7 -x 2690 -y 3210 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 7 -x 2690 -y 2120 -defaultsOSRD
+preplace inst digpix_select_0 -pg 1 -lvl 10 -x 4410 -y 2160 -defaultsOSRD
+preplace netloc Net 1 6 1 2520 70n
+preplace netloc SC_CLK_OUT_N_0_1 1 0 6 NJ 2480 NJ 2480 NJ 2480 NJ 2480 NJ 2480 NJ
+preplace netloc SC_CLK_OUT_P_0_1 1 0 6 NJ 2450 NJ 2450 NJ 2450 NJ 2450 NJ 2450 1870J
+preplace netloc SC_DATA_OUT_N_0_1 1 0 6 10J 2500 NJ 2500 NJ 2500 NJ 2500 NJ 2500 1870J
+preplace netloc SC_DATA_OUT_P_0_1 1 0 6 NJ 2510 NJ 2510 NJ 2510 NJ 2510 NJ 2510 2000J
+preplace netloc TP4_testpoint_n_1 1 0 10 NJ 2880 NJ 2880 NJ 2880 NJ 2880 NJ 2880 NJ 2880 NJ 2880 NJ 2880 3490J 3070 4250J
+preplace netloc TP4_testpoint_p_1 1 0 10 -10J 2900 NJ 2900 NJ 2900 NJ 2900 NJ 2900 NJ 2900 NJ 2900 NJ 2900 3480J 3080 4270J
+preplace netloc axi_ethernet_0_fifo_interrupt 1 1 6 330 1280 NJ 1280 NJ 1280 NJ 1280 NJ 1280 2350
+preplace netloc axi_ethernet_0_fifo_mm2s_cntrl_reset_out_n 1 6 1 2490 1180n
+preplace netloc axi_ethernet_0_fifo_mm2s_prmry_reset_out_n 1 6 1 2450 1160n
+preplace netloc axi_ethernet_0_fifo_s2mm_prmry_reset_out_n 1 6 1 2480 1200n
+preplace netloc axi_ethernet_0_interrupt 1 1 7 330 2070 NJ 2070 1010J 1840 NJ 1840 1990J 1860 2430J 1810 2850
+preplace netloc axi_gpio_0_gpio2_io_o 1 7 3 2850J 2250 NJ 2250 4270
+preplace netloc axi_gpio_1_gpio2_io_o 1 6 2 2450 1950 2990J
+preplace netloc axi_gpio_cmac_gpio_io_o 1 6 2 2520 1980 NJ
+preplace netloc axi_timer_0_interrupt 1 1 6 310 2090 NJ 2090 1040J 1850 NJ 1850 1930J 1880 2350
+preplace netloc bot_n_0_1 1 0 8 NJ 1630 NJ 1630 NJ 1630 NJ 1630 NJ 1630 NJ 1630 2490J 1960 2870J
+preplace netloc bot_p_0_1 1 0 8 -10J 10 NJ 10 NJ 10 NJ 10 NJ 10 NJ 10 NJ 10 3080J
+preplace netloc breakout1_0_do_0 1 8 1 3720 1780n
+preplace netloc breakout1_0_do_1 1 8 1 3710 1800n
+preplace netloc breakout1_0_do_2 1 8 1 3700 1820n
+preplace netloc breakout1_0_do_3 1 8 1 3690 1840n
+preplace netloc breakout1_0_do_31_20 1 8 1 3510 2180n
+preplace netloc breakout1_0_do_4 1 8 1 3680 1860n
+preplace netloc breakout1_0_do_5 1 8 1 3670 1880n
+preplace netloc breakout1_0_do_7 1 8 1 3660 1920n
+preplace netloc breakout1_0_do_8 1 8 1 3620 1940n
+preplace netloc breakout1_0_do_9 1 8 1 3600 1960n
+preplace netloc breakout1_0_do_10 1 8 1 3560 1980n
+preplace netloc breakout1_0_do_11 1 8 1 3540 2000n
+preplace netloc breakout1_0_do_12 1 8 1 3520 2020n
+preplace netloc breakout1_0_do_13 1 8 1 3630 2040n
+preplace netloc breakout1_0_do_14 1 8 1 3490 2060n
+preplace netloc breakout1_0_do_15 1 8 1 3580 2080n
+preplace netloc breakout1_0_do_16 1 8 1 3550 2100n
+preplace netloc breakout1_0_do_17 1 8 1 3530 2120n
+preplace netloc breakout1_0_do_18 1 8 3 3570J 2070 NJ 2070 4580J
+preplace netloc breakout1_0_do_19 1 8 3 3610J 2080 NJ 2080 4570J
+preplace netloc clk_wiz_1_clk_40 1 1 6 260 2100 N 2100 990 1800 N 1800 1970 2310 2370J
+preplace netloc clk_wiz_1_clk_200 1 1 7 280 2060 N 2060 970 1810 N 1810 1980 2270 2410 2370 3030
+preplace netloc clk_wiz_1_clk_out20 1 1 7 250 2120 NJ 2120 1030J 1820 NJ 1820 2000J 1870 2480J 1830 2890J
+preplace netloc clk_wiz_1_locked 1 1 1 270 1870n
+preplace netloc cmac_usplus_0_gt_txusrclk2 1 7 3 3080 2930 3710 3090 4230
+preplace netloc cmac_usplus_0_stat_rx_aligned 1 9 1 4230 1640n
+preplace netloc cmac_usplus_0_tx_axis_tready 1 8 1 3730 1460n
+preplace netloc digpix_select_0_dp_b_out 1 10 1 NJ 2170
+preplace netloc digpix_select_0_dp_t_out 1 10 1 4560J 2140n
+preplace netloc drive_in_0_1 1 0 10 0J 2390 NJ 2390 NJ 2390 NJ 2390 NJ 2390 1990J 2340 2380J 2390 NJ 2390 3640J 2150 NJ
+preplace netloc dummy_port_in_1 1 0 7 -10J 1650 NJ 1650 NJ 1650 NJ 1650 NJ 1650 NJ 1650 2510J
+preplace netloc ilconcat_0_dout 1 6 5 2420 2380 3040J 2270 NJ 2270 NJ 2270 4550
+preplace netloc ilconstant_0_dout 1 8 1 3770 2630n
+preplace netloc ilconstant_1_dout 1 9 1 NJ 1660
+preplace netloc ilslice_0_Dout 1 7 1 3070J 70n
+preplace netloc ilslice_10a_Dout 1 7 1 2980J 670n
+preplace netloc ilslice_11a_Dout 1 7 1 2940J 770n
+preplace netloc ilslice_19_12_Dout 1 7 1 2880J 870n
+preplace netloc ilslice_1_Dout 1 7 1 3030J 470n
+preplace netloc ilslice_1_Dout1 1 7 1 3040J 170n
+preplace netloc ilslice_20_Dout 1 7 1 2900J 970n
+preplace netloc ilslice_2_Dout 1 7 1 2990J 270n
+preplace netloc ilslice_3_Dout 1 7 1 2970J 370n
+preplace netloc ilslice_8a_Dout 1 7 1 3020J 570n
+preplace netloc ilslice_9a_Dout 1 7 1 2930J 1450n
+preplace netloc mdm_1_debug_sys_rst 1 1 3 320 2110 NJ 2110 960
+preplace netloc microblaze_riscv_0_Clk 1 1 8 290 2050 680 2050 980 1830 1590 1830 1950 1270 2500 1990 3060 2350 3500J
+preplace netloc microblaze_riscv_0_intr 1 2 1 710 1780n
+preplace netloc mod0_idle 1 8 2 NJ 1480 4230
+preplace netloc mod0_tx_tdata 1 8 1 3770 1380n
+preplace netloc mod0_tx_tkeep 1 8 1 3760 1400n
+preplace netloc mod0_tx_tlast 1 8 1 3750 1420n
+preplace netloc mod0_tx_tvalid 1 8 1 3740 1440n
+preplace netloc pwr_good_0_1 1 0 7 NJ 3420 NJ 3420 NJ 3420 NJ 3420 NJ 3420 NJ 3420 NJ
+preplace netloc refclk0_n_0_1 1 0 8 NJ 2620 NJ 2620 NJ 2620 NJ 2620 NJ 2620 NJ 2620 NJ 2620 2920J
+preplace netloc refclk0_p_0_1 1 0 8 NJ 2650 NJ 2650 NJ 2650 NJ 2650 NJ 2650 NJ 2650 NJ 2650 2910J
+preplace netloc refclk1_n_0_1 1 0 8 NJ 2710 NJ 2710 NJ 2710 NJ 2710 NJ 2710 NJ 2710 NJ 2710 3010J
+preplace netloc refclk1_p_0_1 1 0 8 NJ 2740 NJ 2740 NJ 2740 NJ 2740 NJ 2740 NJ 2740 NJ 2740 3000J
+preplace netloc reset_0_1 1 0 2 -10 1930 NJ
+preplace netloc rst_clk_wiz_1_100M_bus_struct_reset 1 2 3 670J 2080 1050J 1860 1580
+preplace netloc rst_clk_wiz_1_100M_mb_reset 1 2 2 690 2030 1020J
+preplace netloc rst_clk_wiz_1_100M_peripheral_aresetn 1 2 5 700 2230 NJ 2230 1570 2380 1960 1290 2470
+preplace netloc timepix4_command_out_0_SC_clk_in_N 1 7 4 NJ 3030 3440J 3100 4240J 2930 4560J
+preplace netloc timepix4_command_out_0_SC_clk_in_P 1 7 4 NJ 3010 3450J 3110 4260J 2940 4550J
+preplace netloc timepix4_command_out_0_SC_data_in_N 1 7 4 NJ 2990 3460J 3120 NJ 3120 4590J
+preplace netloc timepix4_command_out_0_SC_data_in_P 1 7 4 NJ 2970 3470J 3130 4270J 3100 4580J
+preplace netloc timepix4_command_out_0_refclk_40_N 1 7 4 NJ 3070 3420J 3170 NJ 3170 NJ
+preplace netloc timepix4_command_out_0_refclk_40_P 1 7 4 NJ 3050 3430J 3140 NJ 3140 NJ
+preplace netloc timepix4_sc_in_AXI_0_sc_irq 1 1 6 300 2410 NJ 2410 NJ 2410 NJ 2410 2000J 2350 2350
+preplace netloc timepix_gpio_AXI_0_T0_sync_N 1 7 4 NJ 3430 NJ 3430 NJ 3430 4590J
+preplace netloc timepix_gpio_AXI_0_T0_sync_P 1 7 4 NJ 3410 NJ 3410 NJ 3410 NJ
+preplace netloc timepix_gpio_AXI_0_int_reset_n 1 5 3 2010 2910 2490 2910 2850
+preplace netloc timepix_gpio_AXI_0_pwr_en 1 7 4 NJ 3470 NJ 3470 NJ 3470 NJ
+preplace netloc timepix_gpio_AXI_0_reset_N 1 7 4 2850J 3380 NJ 3380 NJ 3380 NJ
+preplace netloc timepix_gpio_AXI_0_reset_P 1 7 4 3070J 3350 NJ 3350 NJ 3350 NJ
+preplace netloc timepix_gpio_AXI_0_shutter_N 1 7 4 NJ 3510 NJ 3510 NJ 3510 4590J
+preplace netloc timepix_gpio_AXI_0_shutter_P 1 7 4 NJ 3490 NJ 3490 NJ 3490 4550J
+preplace netloc top_n_0_1 1 0 8 NJ 2770 NJ 2770 NJ 2770 NJ 2770 NJ 2770 NJ 2770 NJ 2770 2960J
+preplace netloc top_p_0_1 1 0 8 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 NJ 3130 2950J
+preplace netloc util_ds_buf_0_IBUF_OUT 1 10 1 4570J 2990n
+preplace netloc CLK_IN1_D_0_1 1 0 1 N 1820
+preplace netloc axi_ethernet_0_fifo_AXI_STR_TXC 1 6 1 N 1120
+preplace netloc axi_ethernet_0_fifo_AXI_STR_TXD 1 6 1 N 1100
+preplace netloc axi_ethernet_0_m_axis_rxd 1 5 3 2010 1850 2440J 1820 2860
+preplace netloc axi_ethernet_0_mdio 1 7 4 2870J 1100 NJ 1100 NJ 1100 NJ
+preplace netloc axi_ethernet_0_sgmii 1 7 4 NJ 1130 NJ 1130 NJ 1130 NJ
+preplace netloc axi_gpio_0_GPIO 1 7 4 2860J 2240 3590J 2060 NJ 2060 4590J
+preplace netloc axi_iic_0_IIC 1 7 4 NJ 2260 NJ 2260 NJ 2260 4560J
+preplace netloc axi_uartlite_0_UART 1 7 4 NJ 3200 NJ 3200 NJ 3200 NJ
+preplace netloc cmac_usplus_0_gt_serial_port 1 9 2 4240J 2090 NJ
+preplace netloc gt_ref_clk_0_1 1 0 9 -10J 2400 NJ 2400 NJ 2400 NJ 2400 NJ 2400 2010J 2360 NJ 2360 NJ 2360 3650J
+preplace netloc microblaze_riscv_0_axi_dp 1 4 1 1570 1970n
+preplace netloc microblaze_riscv_0_axi_periph_M01_AXI 1 5 1 1900 1940n
+preplace netloc microblaze_riscv_0_axi_periph_M02_AXI 1 5 2 1880 1040 2530J
+preplace netloc microblaze_riscv_0_axi_periph_M03_AXI 1 5 1 1890 1120n
+preplace netloc microblaze_riscv_0_axi_periph_M04_AXI 1 5 1 1940 2160n
+preplace netloc microblaze_riscv_0_axi_periph_M05_AXI 1 5 2 1920 2290 2400J
+preplace netloc microblaze_riscv_0_axi_periph_M06_AXI 1 5 2 1930 2100 2390J
+preplace netloc microblaze_riscv_0_axi_periph_M07_AXI 1 5 1 1870 2240n
+preplace netloc microblaze_riscv_0_axi_periph_M08_AXI 1 5 2 NJ 2260 N
+preplace netloc microblaze_riscv_0_axi_periph_M09_AXI 1 5 1 1910 1730n
+preplace netloc microblaze_riscv_0_axi_periph_M10_AXI 1 5 2 N 2300 2360J
+preplace netloc microblaze_riscv_0_axi_periph_M11_AXI 1 5 2 NJ 2320 2530
+preplace netloc microblaze_riscv_0_debug 1 3 1 1000 1750n
+preplace netloc microblaze_riscv_0_dlmb_1 1 4 1 N 1930
+preplace netloc microblaze_riscv_0_ilmb_1 1 4 1 N 1950
+preplace netloc microblaze_riscv_0_intc_axi 1 2 4 720 2040 NJ 2040 NJ 2040 1870
+preplace netloc microblaze_riscv_0_interrupt 1 3 1 N 1920
+preplace netloc sgmii_phyclk_1 1 0 7 NJ 1260 NJ 1260 NJ 1260 NJ 1260 NJ 1260 NJ 1260 2420J
+levelinfo -pg 1 -30 130 500 840 1310 1730 2180 2690 3250 4000 4410 4610
+pagesize -pg 1 -db -bbox -sgen -200 0 4820 3570
+"
+}
+{
+   "da_aeth_cnt":"1",
+   "da_axi4_cnt":"14",
+   "da_board_cnt":"15",
+   "da_clkrst_cnt":"1",
+   "da_cmac_usplus_cnt":"1",
+   "da_microblaze_riscv_cnt":"1"
+}
